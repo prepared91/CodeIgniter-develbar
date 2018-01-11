@@ -35,6 +35,6 @@
         <?php endif ?>
     </ul>
 </div>
-<div onclick="ShowDevelBar()" id="develbar-off"><img src="<?php echo $logo ?>" alt="CodeIgniter" />
+<div onclick="ShowDevelBar()" id="develbar-off"><img src="<?php echo $logo ?>" alt="CodeIgniter"></div>
 
 <!-- END CodeIgniter Developer Toolbar -->
